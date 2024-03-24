@@ -1,5 +1,6 @@
 # sujet-hiu-2024-algo
-
+ecole = UST-IO
+hiu- ust-io
 Liste des sujets ALGO pour l'HIU 2024
 
 - s1	: https://app.codesignal.com/challenge/bLnZwSnpAQAwBmj5W																								
